@@ -45,3 +45,6 @@ In our App there is a central SQL database. We will represent that database in f
 6.	Registration info- id(Pk), member id, plan id, package id, start date, end date, trainer id, status, date created, package id.
 7.	Payments- id(PK), registration id, amount, remarks, type, date created, registration info id.
 8.	Admins- id(PK), name, username, password, type
+
+![image](https://user-images.githubusercontent.com/83055678/183560188-1c50aca0-39f0-4769-bf7b-0d8dfc75c78b.png)
+
